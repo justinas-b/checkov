@@ -1,1 +1,2 @@
 checkov==1.0.404
+requests>=2.31.0 # not directly required, pinned by Snyk to avoid a vulnerability
